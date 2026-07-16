@@ -16,7 +16,7 @@ Through my graduate studies, I have expanded these skills by applying healthcare
 
 ---
 
-# Current Capstone Project
+# Capstone Project
 
 ## Improving Veteran Healthcare Through Mortality Analytics
 
@@ -38,11 +38,11 @@ This capstone applies health informatics and healthcare analytics to transform p
 - Evaluated data quality and dataset limitations.
 - Cleaned and standardized annual worksheets.
 - Prepared the data for longitudinal analysis.
-- Determined that descriptive, comparative, and time-series analysis were the most appropriate analytical approaches.
+- Selected descriptive, comparative, and time-series analysis after evaluating the dataset's structure, quality, and limitations.
 
 ## Solution
 
-The project uses:
+The analytical approach combines several complementary techniques to answer the research questions and generate evidence-based insights:
 
 - Exploratory Data Analysis (EDA)
 - Descriptive Statistics
