@@ -49,7 +49,7 @@ The analytical approach combines several complementary techniques to answer the 
 - Comparative Analysis
 - Time-Series Trend Analysis
 - Data Visualization using Python and Microsoft Excel
--  ---
+  
 
  ## Planned Technical Artifacts
 
