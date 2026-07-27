@@ -51,16 +51,23 @@ The analytical approach combines several complementary techniques to answer the 
 - Data Visualization using Python and Microsoft Excel
   
 
- ## Planned Technical Artifacts
+ ## Project Deliverables
 
 ### Python Time-Series Visualization
 
-A line chart comparing annual age-adjusted mortality rates between Recent VHA users and Other Veterans.
+Visualizations comparing annual age-adjusted mortality rates between Recent VHA Users and Other Veterans.
 
 ### Years of Potential Life Lost (YPLL) Dashboard
 
-A dashboard illustrating the contribution of leading causes of death to premature mortality.
+Visualizations illustrating the contribution of leading causes of death to premature mortality.
 
 ### Analytical Workflow
 
-A process diagram showing data preparation, validation, exploratory analysis, trend analysis, and business recommendations.
+Documentation describing data preparation, validation, exploratory analysis, trend analysis, and business recommendations.
+
+
+# Resume
+
+You can view or download my professional portfolio resume below.
+
+📄 **Portfolio Resume:** [Ana Maria Child Portfolio Resume](resume/Ana_Maria_Child_Portfolio_Resume.pdf)
