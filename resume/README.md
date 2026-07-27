@@ -29,8 +29,6 @@ I am completing a **Master of Science in Health Informatics** and am focused on 
 
 ## Download Resume
 
-📄 ## Download Resume
-
 📄 [View or Download My Portfolio Resume](Ana_Maria_Child_Portfolio_Resume.pdf)
 
 
