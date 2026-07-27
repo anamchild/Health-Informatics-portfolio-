@@ -4,7 +4,7 @@ Professional portfolio showcasing my Master of Science in Health Informatics cap
 
 ## Health Informatics | Healthcare Analytics | Business Transformation | Operational Excellence
 
----
+
 
 # About Me
 
@@ -14,7 +14,7 @@ My professional experience includes leading operational improvement initiatives,
 
 Through my graduate studies, I have expanded these skills by applying healthcare analytics, Python, data visualization, and evidence-based methodologies to solve complex healthcare challenges. My goal is to use health informatics and analytics to improve patient outcomes, support strategic decision-making, and contribute to healthcare organizations through data-driven innovation.
 
----
+
 
 # Capstone Project
 
