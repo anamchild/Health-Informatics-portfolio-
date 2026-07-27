@@ -37,4 +37,4 @@ I am completing a **Master of Science in Health Informatics** and am focused on 
 
 - **GitHub:** https://github.com/anamchild
 - **Portfolio:** https://anamchild.github.io/Health-Informatics-portfolio-/
-- **LinkedIn:** *(coming soon)*
+- **LinkedIn:** www.linkedin.com/in/ana-child-568538351 
