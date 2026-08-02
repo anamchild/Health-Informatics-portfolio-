@@ -49,6 +49,32 @@ The analytical approach combines several complementary techniques to answer the 
 - Comparative Analysis
 - Time-Series Trend Analysis
 - Data Visualization using Python and Microsoft Excel
+
+### **Capstone Story**
+
+This capstone project demonstrates the complete healthcare analytics lifecycle, beginning with the selection and preparation of publicly available mortality data from the U.S. Department of Veterans Affairs and progressing through descriptive analytics, comparative analysis, longitudinal trend analysis, data visualization, and executive-level reporting. The project was developed using Microsoft Excel for initial data validation and Google Colab with Python (Pandas, NumPy, and Matplotlib) for data preparation, analysis, and visualization.
+
+By transforming national mortality data into actionable insights, the project illustrates how health informatics and healthcare analytics can support evidence-based decision-making, population health management, quality improvement initiatives, and strategic resource allocation within the Veterans Health Administration.
+
+
+### **Final Report**
+
+The project culminated in a professional consulting-style report that brings together all phases of the capstone into a single comprehensive document. The report presents the analytical methodology, key findings, data visualizations, business recommendations, health informatics implications, study limitations, and conclusions developed throughout the project.
+
+The complete report is available below.
+
+📄 **View the Final Capstone Report (PDF)**
+
+[Improving_Veteran_Healthcare_Through_Mortality_Analytics_Final_Capstone_Report.pdf](https://github.com/user-attachments/files/30635569/Improving_Veteran_Healthcare_Through_Mortality_Analytics_Final_Capstone_Report.pdf)
+
+
+### **Project Repository**
+
+The complete technical implementation of this project is available through GitHub. The repository includes the publicly available dataset, Google Colab notebooks, Python code, visualizations, project documentation, presentation materials, and the final consulting-style report, allowing the analytical workflow to be reproduced and reviewed.
+
+🔗 **View the VA Veteran Mortality Analytics Repository**
+
+https://github.com/anamchild/VA-Veteran-Mortality-Analytics
   
 
  ## Project Deliverables
