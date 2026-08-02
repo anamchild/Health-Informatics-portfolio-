@@ -74,10 +74,10 @@ The complete technical implementation of this project is available through GitHu
 
 🔗 **View the VA Veteran Mortality Analytics Repository**
 
-https://github.com/anamchild/VA-Veteran-Mortality-Analytics
-  
+https://github.com/anamchild/VA-Veteran-Mortality-Analytics  
 
- ## Project Deliverables
+
+##Project Deliverables
 
 ### Python Time-Series Visualization
 
